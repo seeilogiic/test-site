@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+}
+table, th {
+    width: 400px;
+    margin: auto;
+    font-size: 20px;
+    padding: 13px;
+    border: 2px solid #000;
+    border-collapse: collapse;
+    text-align: center;
+}
+td{
+    width: 200;
+    margin: auto;
+    font-size: 10px;
+    padding: 8px;
+    border: 1px solid #000;
+    border-collapse: collapse;
+    text-align: center;
+}
